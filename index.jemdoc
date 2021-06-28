@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Qiujiang Jin
+
+~~~
+{}{img_left}{image.jpg}{alt text}{200}{200}
+Ph.D. student,\n [https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences],\n [http://wncg.ord Wireless Networking and Communications Group],\n [https://www.utexas.edu/ University of Texas at Austin]\n
+E-mail: /qiujiang/ \[@\] ices \[DOT\] utexas \[DOT\] edu
+~~~
+
+== About me
+
+I am a Ph.D. student at the [https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences] of [https://www.utexas.edu/ University of Texas at Austin]. I'm also a member of the [http://wncg.ord Wireless Networking and Communications Group]. I'm advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. I received my B.Sc. in pure and applied mathematics  from the [https://www.math.tsinghua.edu.cn/ Department of Mathematical Sciences] at [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2015 and my M.Sc. in computational and mathematical engineering from the [https://icme.stanford.edu/ Institute for Computational & Mathematical Engineering] at [https://www.stanford.edu/ Stanford University] in 2017. My research interests generally lie in the theory and applications of optimization. My current research focuses on the development of efficient second-order numerical optimization methods for large-scale machine learning problems.
+
+=== Publications and Preprints
+. \[[https://arxiv.org/abs/2003.13607 Non-asymptotic Superlinear Convergence of Standard Quasi-Newton Methods]\]\n Qiujiang Jin and Aryan Mokhtari\n Under review
+. \[[https://arxiv.org/abs/2106.05445 Exploiting Local Convergence of Quasi-Newton Methods Globally: Adaptive Sample Size Approach]\]\n Qiujiang Jin and Aryan Mokhtari\n Under review
